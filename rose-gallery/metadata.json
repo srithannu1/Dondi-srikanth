@@ -1,0 +1,6 @@
+{
+  "name": "Rose Gallery",
+  "description": "A sleek dark-themed Motorola Edge 50 gallery application featuring rose-accented aesthetics, albums, favorites, photo viewer, and media browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
